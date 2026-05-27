@@ -83,9 +83,7 @@ export default function HeroSection() {
           rel="noopener noreferrer"
           className="animate-fade-in-up delay-400 inline-flex items-center gap-3 font-body font-700 text-white rounded-2xl px-8 py-4 text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl"
           style={{ background: 'linear-gradient(135deg, #e87722 0%, #c95f0e 100%)' }}
-        >
-          <img src="/img/instagram.png" alt="Instagram" className="w-6 h-6 brightness-0 invert" />
-          Entre em contato para agendamento
+        >Entre em contato para agendamento
         </a>
 
         {/* Scroll hint */}

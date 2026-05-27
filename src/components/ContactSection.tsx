@@ -40,9 +40,7 @@ export default function ContactSection() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-4 font-body font-700 text-white rounded-2xl px-10 py-5 text-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl mb-6"
             style={{ background: 'linear-gradient(135deg, #e87722 0%, #c95f0e 100%)' }}
-          >
-            <img src="/img/instagram.png" alt="Instagram" className="w-7 h-7 brightness-0 invert" />
-            @mosquilab.univille
+          >ENTRE EM CONTATO
           </a>
 
           <p className="font-body text-white/40 text-sm">
